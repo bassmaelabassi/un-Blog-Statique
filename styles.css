@@ -13,7 +13,7 @@ body {
 
 /* Header et navigation */
 header {
-    background-color: #4320d1;
+    background-color: #4b020c;
     padding: 1rem;
 }
 
@@ -92,7 +92,7 @@ h1 {
 /* Footer */
 footer {
     text-align: center;
-    background-color: #4320d1;
+    background-color: #4b020c;
     color: rgb(244, 208, 236);
     padding: 1rem;
     margin-top: 2rem;
